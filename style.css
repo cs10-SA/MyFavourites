@@ -1,0 +1,37 @@
+html {
+  background: url(img/moon.webp) no-repeat center fixed;
+  background-size: cover;
+}
+body {
+  background-color: rgba(255, 255, 255, 0.5);
+  margin: 25px auto;
+  width: 500px;
+  padding: 80px 150px 50px;
+  border: 2px;
+  border-radius: 10px;
+}
+
+h1,
+h2 {
+  text-decoration: underline;
+  letter-spacing: 2px;
+  font-family: "Courier New", Courier, monospace;
+  color: rgb(56, 14, 37);
+}
+
+p {
+  color: rgb(66, 9, 41);
+  font-family: "Courier New", Courier, monospace;
+}
+h1 {
+  font-size: xx-large;
+}
+.center {
+  text-align: center;
+}
+a:hover {
+  font-weight: bold;
+}
+a {
+  color: rgb(90, 4, 90);
+}
